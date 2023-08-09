@@ -1,0 +1,40 @@
+# created by virtualenv automatically
+*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.db
+*.sqlite3
+*.pdf
+*.svg
+.env
+
+# Installer logs
+pip-log.txt
+
+# Virtual environments
+venv/
+.env/
+
+# Editor-specific files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# macOS specific files
+.DS_Store
